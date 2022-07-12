@@ -32,4 +32,4 @@ COPY . .
 RUN chmod +x run.sh
 
 CMD ["bash","run.sh"]
-  
+
